@@ -1,0 +1,65 @@
+nohup: ignoring input
+127.0.0.1 - - [27/Nov/2025 05:22:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:22:58] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/_slug_.dXxnvsDX.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:22:58] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:22:59] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:22:59] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:22:59] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:22:59] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:23:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:23:14] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:23:14] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:14] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:14] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:14] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:23:18] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:23:18] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:18] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:18] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:18] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:30] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/_slug_.dXxnvsDX.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:23:30] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:30] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces/ HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:23:42] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:23:42] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:42] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:42] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:23:42] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:23:50] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:18] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/_slug_.dXxnvsDX.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:25:18] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:19] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:19] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:19] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:19] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:22] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:22] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/_slug_.dXxnvsDX.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:22] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:22] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:23] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:23] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:25:24] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:24] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:24] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:24] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:24] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:49] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 200 -
+127.0.0.1 - - [27/Nov/2025 05:25:50] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:50] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:25:50] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:25:50] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:28:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:28:51] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/_slug_.dXxnvsDX.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:28:51] "GET /Alba%20Space_%20Uzayda%20Marka%20Tan%C4%B1t%C4%B1m%C4%B1%20ve%20Reklam%20_%20Alba%20Space_files/font-faces HTTP/1.1" 304 -
+127.0.0.1 - - [27/Nov/2025 05:28:51] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:28:51] "GET /_astro-1760727831277/client.CImooay0.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:28:51] code 404, message File not found
+127.0.0.1 - - [27/Nov/2025 05:28:51] "GET /_astro-1760727831277/ClientHead.8Bz-elIT.js HTTP/1.1" 404 -
+127.0.0.1 - - [27/Nov/2025 05:29:29] "GET / HTTP/1.1" 200 -
